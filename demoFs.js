@@ -45,6 +45,6 @@ const appendFile = async () => {
   }
 };
 
-writeFile();
-appendFile();
-readFile();
+// writeFile();
+// appendFile();
+// readFile();
